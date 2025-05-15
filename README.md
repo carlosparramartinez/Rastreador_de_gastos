@@ -2,6 +2,7 @@
 
 Una aplicación simple de línea de comandos para gestionar tus gastos personales, desarrollada en Python. Permite agregar, listar, eliminar, actualizar y generar resúmenes de gastos, almacenando los datos en un archivo JSON local.
 
+https://roadmap.sh/projects/expense-tracker
 ## Requisitos
 
 - Python 3.7 o superior
