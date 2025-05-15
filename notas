@@ -1,0 +1,6 @@
+#python expense_tracker.py add --description "almuerzo" --amount 12
+#python expense_tracker.py list
+#python expense_tracker.py summary
+#python expense_tracker.py summary --mes 5
+#python expense_tracker.py delete --id 1
+#python expense_tracker.py update --id 2 --description "Cena" --amount 12
